@@ -1,0 +1,18 @@
+{
+  "main.css": "./static/css/main.bb07a88e.chunk.css",
+  "main.js": "./static/js/main.d98da8e2.chunk.js",
+  "main.js.map": "./static/js/main.d98da8e2.chunk.js.map",
+  "runtime~main.js": "./static/js/runtime~main.d653cc00.js",
+  "runtime~main.js.map": "./static/js/runtime~main.d653cc00.js.map",
+  "static/css/2.106bd7ca.chunk.css": "./static/css/2.106bd7ca.chunk.css",
+  "static/js/2.be022044.chunk.js": "./static/js/2.be022044.chunk.js",
+  "static/js/2.be022044.chunk.js.map": "./static/js/2.be022044.chunk.js.map",
+  "index.html": "./index.html",
+  "precache-manifest.5903c35cada5e3809e842412f509da36.js": "./precache-manifest.5903c35cada5e3809e842412f509da36.js",
+  "service-worker.js": "./service-worker.js",
+  "static/css/2.106bd7ca.chunk.css.map": "./static/css/2.106bd7ca.chunk.css.map",
+  "static/css/main.bb07a88e.chunk.css.map": "./static/css/main.bb07a88e.chunk.css.map",
+  "static/media/1233.ttf": "./static/media/1233.1808b5f6.ttf",
+  "static/media/click.png": "./static/media/click.d8dde2c4.png",
+  "static/media/coin.png": "./static/media/coin.c53e482c.png"
+}
